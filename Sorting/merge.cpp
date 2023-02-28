@@ -1,3 +1,9 @@
+// Avg:- O(nlogn)
+// Additional memory space of 0(n) for the temporary array.
+// Not for Small Task as it 
+// Usefull for sorting Linked list as 
+// we can insert in the middle in O(1) space and time.
+
 #include <iostream>
 #include <stdio.h>
 using namespace std;

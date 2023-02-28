@@ -1,6 +1,8 @@
-// O(n^2) in the worst and average case.
-// Not well on large datasets with slow RAM.
-// It doesn’t take advantage on case of sorted or partially sorted
+// Avg:-O(nlogn)
+// Worst:- O(n^2) If the pivot is poorly
+// occurs when the partition process always picks the greatest or smallest
+// element as the pivot.
+
 #include <iostream>
 #include <stdio.h>
 using namespace std;
